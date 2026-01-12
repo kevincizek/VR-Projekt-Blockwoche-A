@@ -1,0 +1,31 @@
+[gd_scene load_steps=7 format=3 uid="uid://fb238fyogsa8"]
+
+[ext_resource type="PackedScene" uid="uid://c8l60rnugru40" path="res://addons/godot-xr-tools/objects/pickable.tscn" id="1_twwwp"]
+[ext_resource type="PackedScene" uid="uid://da2qgxxwwitl6" path="res://addons/godot-xr-tools/objects/highlight/highlight_ring.tscn" id="2_t3hub"]
+[ext_resource type="PackedScene" uid="uid://c25yxb0vt53vc" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_left.tscn" id="3_wh2wk"]
+[ext_resource type="PackedScene" uid="uid://ctw7nbntd5pcj" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_right.tscn" id="4_1l7xx"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_t3hub"]
+size = Vector3(0.5043602, 0.57855034, 0.7014923)
+
+[sub_resource type="BoxMesh" id="BoxMesh_8jsni"]
+size = Vector3(0.1, 0.1, 0.1)
+
+[node name="BoxPickup" instance=ExtResource("1_twwwp")]
+second_hand_grab = 1
+
+[node name="CollisionShape3D" parent="." index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0010623932, -0.0016355515, -0.0018386841)
+shape = SubResource("BoxShape3D_t3hub")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." index="1"]
+transform = Transform3D(4.690556, 0, 0, 0, 5.5665317, 0, 0, 0, 6.812937, 0, 0, 0)
+mesh = SubResource("BoxMesh_8jsni")
+
+[node name="HighlightRing" parent="." index="2" instance=ExtResource("2_t3hub")]
+
+[node name="GrabPointHandLeft" parent="." index="3" instance=ExtResource("3_wh2wk")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.04548514, 0.23369928, 0.2938962)
+
+[node name="GrabPointHandRight" parent="." index="4" instance=ExtResource("4_1l7xx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.26455712, 0.29257935)
