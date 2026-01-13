@@ -9,7 +9,7 @@
 [ext_resource type="PackedScene" uid="uid://diyu06cw06syv" path="res://addons/godot-xr-tools/player/player_body.tscn" id="6_4c57u"]
 [ext_resource type="PackedScene" uid="uid://4e3ckfocqwgb" path="res://addons/godot-xr-tools/objects/BlauesKabelGodot.tscn" id="9_4c57u"]
 [ext_resource type="PackedScene" uid="uid://fb238fyogsa8" path="res://addons/godot-xr-tools/objects/box_pickup.tscn" id="9_kek77"]
-[ext_resource type="PackedScene" uid="uid://b5grt1u7hmd3n" path="res://SteckdoseSnap2.tscn" id="10_4c57u"]
+[ext_resource type="PackedScene" uid="uid://dbwxs578lf1hx" path="res://addons/godot-xr-tools/objects/SteckdoseSnap.tscn" id="10_4c57u"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_7mycd"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
@@ -103,5 +103,5 @@ disable_mode = 2
 release_mode = 1
 second_hand_grab = 1
 
-[node name="steckdose" parent="." instance=ExtResource("10_4c57u")]
-transform = Transform3D(0.05, 0, 0, 0, -2.1855695e-09, -0.05, 0, 0.05, -2.1855695e-09, 0.06612885, 1.3631095, -0.83377045)
+[node name="Steckdose" parent="." instance=ExtResource("10_4c57u")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.109704256, 1.5054805, -1.1625829)
