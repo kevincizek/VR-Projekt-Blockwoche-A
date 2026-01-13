@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=3 uid="uid://o006cqpgv7jx"]
+[gd_scene load_steps=18 format=3 uid="uid://o006cqpgv7jx"]
 
 [ext_resource type="PackedScene" uid="uid://b4kad2kuba1yn" path="res://addons/godot-xr-tools/hands/scenes/lowpoly/left_hand_low.tscn" id="1_h2yge"]
 [ext_resource type="PackedScene" uid="uid://l2n30mpbkdyw" path="res://addons/godot-xr-tools/hands/scenes/lowpoly/right_hand_low.tscn" id="2_1bvp3"]
@@ -9,6 +9,7 @@
 [ext_resource type="PackedScene" uid="uid://diyu06cw06syv" path="res://addons/godot-xr-tools/player/player_body.tscn" id="6_4c57u"]
 [ext_resource type="PackedScene" uid="uid://4e3ckfocqwgb" path="res://addons/godot-xr-tools/objects/BlauesKabelGodot.tscn" id="9_4c57u"]
 [ext_resource type="PackedScene" uid="uid://fb238fyogsa8" path="res://addons/godot-xr-tools/objects/box_pickup.tscn" id="9_kek77"]
+[ext_resource type="PackedScene" uid="uid://b5grt1u7hmd3n" path="res://SteckdoseSnap2.tscn" id="10_4c57u"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_7mycd"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
@@ -97,7 +98,10 @@ transform = Transform3D(1.8800797, 0, 0, 0, 1.4954443, 0, 0, 0, 0.14303079, 0, 0
 mesh = SubResource("BoxMesh_5vw27")
 
 [node name="BlauesKabel" parent="." instance=ExtResource("9_4c57u")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.68454, 1.1268115, -0.21968451)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5539345, 0.91902626, -0.08390978)
 disable_mode = 2
 release_mode = 1
 second_hand_grab = 1
+
+[node name="steckdose" parent="." instance=ExtResource("10_4c57u")]
+transform = Transform3D(0.05, 0, 0, 0, -2.1855695e-09, -0.05, 0, 0.05, -2.1855695e-09, 0.06612885, 1.3631095, -0.83377045)
