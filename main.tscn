@@ -93,7 +93,7 @@ shape = SubResource("BoxShape3D_efxa6")
 [node name="BoxPickup" parent="." instance=ExtResource("9_kek77")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.17703009, 0.5823067, -0.2474779)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+[node name="Wall" type="MeshInstance3D" parent="."]
 transform = Transform3D(1.8800797, 0, 0, 0, 1.4954443, 0, 0, 0, 0.14303079, 0, 0.79082334, -1.6253803)
 mesh = SubResource("BoxMesh_5vw27")
 
