@@ -1,0 +1,36 @@
+[gd_scene load_steps=5 format=3 uid="uid://cwxj6v3sbaq17"]
+
+[ext_resource type="PackedScene" uid="uid://d00n838pb2e05" path="res://Weißer_Kabel_Anfang.glb" id="1_fduj1"]
+[ext_resource type="PackedScene" uid="uid://djgs6a3w4prnn" path="res://Weißer_Kabel_Mitte.glb" id="2_4esnc"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0a4i2"]
+size = Vector3(0.044677734, 0.008544922, 0.014465332)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_3m83w"]
+size = Vector3(1.9157104, 0.011634827, 0.010623932)
+
+[node name="Node3D" type="Node3D"]
+transform = Transform3D(0.20801486, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+
+[node name="CableBeginning" type="RigidBody3D" parent="."]
+
+[node name="Weißer_Kabel_Anfang" parent="CableBeginning" instance=ExtResource("1_fduj1")]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CableBeginning"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.8441162, -0.002319336, -0.00033569336)
+shape = SubResource("BoxShape3D_0a4i2")
+
+[node name="CableMiddle" type="RigidBody3D" parent="."]
+transform = Transform3D(0.25366604, 0, 0, 0, 1, 0, 0, 0, 1, -1.3605185, 0, 0)
+
+[node name="Weißer_Kabel_Mitte" parent="CableMiddle" instance=ExtResource("2_4esnc")]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CableMiddle"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.86569214, -0.00088119507, 0.0018749237)
+shape = SubResource("BoxShape3D_3m83w")
+
+[node name="PinJoint3D" type="PinJoint3D" parent="."]
+node_a = NodePath("../CableBeginning")
+node_b = NodePath("../CableMiddle")
