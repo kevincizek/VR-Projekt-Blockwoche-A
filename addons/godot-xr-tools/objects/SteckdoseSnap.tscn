@@ -1,7 +1,10 @@
-[gd_scene load_steps=4 format=3 uid="uid://dbwxs578lf1hx"]
+[gd_scene load_steps=7 format=3 uid="uid://dbwxs578lf1hx"]
 
 [ext_resource type="PackedScene" uid="uid://ce7vysyvondf8" path="res://addons/godot-xr-tools/objects/snap_zone.tscn" id="1_wbvft"]
 [ext_resource type="PackedScene" uid="uid://dmhofm3waqvh" path="res://steckdose.glb" id="2_irbej"]
+[ext_resource type="PackedScene" uid="uid://dh8grd7s3n8kg" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_snap.tscn" id="3_irbej"]
+[ext_resource type="PackedScene" uid="uid://c25yxb0vt53vc" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_left.tscn" id="4_o3h6e"]
+[ext_resource type="PackedScene" uid="uid://ctw7nbntd5pcj" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_right.tscn" id="5_r52sq"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_j0h5q"]
 resource_local_to_scene = true
@@ -17,3 +20,12 @@ transform = Transform3D(0.05, 0, 0, 0, -2.1855695e-09, -0.05, 0, 0.05, -2.185569
 
 [node name="SnapZone" parent="." index="3" instance=ExtResource("1_wbvft")]
 transform = Transform3D(-0.05182834, -0.9997925, 0, 2.5442417, -0.020366613, 0, 0, 0, 3.3145247, -0.051396772, -0.042187568, 0.09268907)
+
+[node name="GrabPointSnap" parent="." index="4" instance=ExtResource("3_irbej")]
+transform = Transform3D(25.845783, 0, 0, 0, 27.241325, 0, 0, 0, 6.716753, -0.006195411, 0, 0.106251314)
+
+[node name="GrabPointHandLeft" parent="." index="5" instance=ExtResource("4_o3h6e")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1.2493805, 0, 0, 0)
+
+[node name="GrabPointHandRight" parent="." index="6" instance=ExtResource("5_r52sq")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1.3731863, 0, 0, 0)
