@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d00n838pb2e05"
-path="res://.godot/imported/Weißer_Kabel_Anfang.glb-e115390d0165ca9767cd1807fa89dea3.scn"
+path="res://.godot/imported/Weißer_Kabel_Anfang.glb-1d48acb4b3d7cd119c13afa9a405841d.scn"
 
 [deps]
 
-source_file="res://Weißer_Kabel_Anfang.glb"
-dest_files=["res://.godot/imported/Weißer_Kabel_Anfang.glb-e115390d0165ca9767cd1807fa89dea3.scn"]
+source_file="res://Models_GLB/Weißer_Kabel_Anfang.glb"
+dest_files=["res://.godot/imported/Weißer_Kabel_Anfang.glb-1d48acb4b3d7cd119c13afa9a405841d.scn"]
 
 [params]
 

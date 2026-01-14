@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://djgs6a3w4prnn"
-path="res://.godot/imported/Weißer_Kabel_Mitte.glb-38d1d832ac8f1c634cb186af4ec27d19.scn"
+path="res://.godot/imported/Weißer_Kabel_Mitte.glb-67049f1d8b7d6ede67d29e25b08a38e7.scn"
 
 [deps]
 
-source_file="res://Weißer_Kabel_Mitte.glb"
-dest_files=["res://.godot/imported/Weißer_Kabel_Mitte.glb-38d1d832ac8f1c634cb186af4ec27d19.scn"]
+source_file="res://Models_GLB/Weißer_Kabel_Mitte.glb"
+dest_files=["res://.godot/imported/Weißer_Kabel_Mitte.glb-67049f1d8b7d6ede67d29e25b08a38e7.scn"]
 
 [params]
 

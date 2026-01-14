@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmhofm3waqvh"
-path="res://.godot/imported/steckdose.glb-c9c4a3d6dc811394ca5da35124c5fa61.scn"
+path="res://.godot/imported/steckdose.glb-1040d955c1679b145a4605da0ac2e835.scn"
 
 [deps]
 
-source_file="res://steckdose.glb"
-dest_files=["res://.godot/imported/steckdose.glb-c9c4a3d6dc811394ca5da35124c5fa61.scn"]
+source_file="res://Models_GLB/steckdose.glb"
+dest_files=["res://.godot/imported/steckdose.glb-1040d955c1679b145a4605da0ac2e835.scn"]
 
 [params]
 

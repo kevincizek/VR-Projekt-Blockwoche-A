@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cdigjrkid6t8y"
-path="res://.godot/imported/BlauesKabel.glb-961fe2c059aa12d853534cf9fbd74131.scn"
+path="res://.godot/imported/BlauesKabel.glb-c4215fccf10340670118a1b0fd617d2b.scn"
 
 [deps]
 
-source_file="res://BlauesKabel.glb"
-dest_files=["res://.godot/imported/BlauesKabel.glb-961fe2c059aa12d853534cf9fbd74131.scn"]
+source_file="res://Models_GLB/BlauesKabel.glb"
+dest_files=["res://.godot/imported/BlauesKabel.glb-c4215fccf10340670118a1b0fd617d2b.scn"]
 
 [params]
 

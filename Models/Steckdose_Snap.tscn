@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://deirtc21xxbc3"]
 
 [ext_resource type="PackedScene" uid="uid://c8l60rnugru40" path="res://addons/godot-xr-tools/objects/pickable.tscn" id="1_vhtp4"]
-[ext_resource type="PackedScene" uid="uid://dmhofm3waqvh" path="res://steckdose.glb" id="2_l1due"]
+[ext_resource type="PackedScene" uid="uid://dmhofm3waqvh" path="res://Models_GLB/steckdose.glb" id="2_l1due"]
 [ext_resource type="PackedScene" uid="uid://c25yxb0vt53vc" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_left.tscn" id="3_7iafr"]
 [ext_resource type="PackedScene" uid="uid://ctw7nbntd5pcj" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_right.tscn" id="4_ivunw"]
 [ext_resource type="PackedScene" uid="uid://dh8grd7s3n8kg" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_snap.tscn" id="5_5g3ko"]
@@ -9,7 +9,7 @@
 [sub_resource type="BoxShape3D" id="BoxShape3D_rqle1"]
 size = Vector3(0.27761078, 0.116220474, 0.32600403)
 
-[node name="PickableObject" instance=ExtResource("1_vhtp4")]
+[node name="SteckdoseSnaptoWall" instance=ExtResource("1_vhtp4")]
 
 [node name="CollisionShape3D" parent="." index="0"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0013923645, 0.11502743, 0.021598816)

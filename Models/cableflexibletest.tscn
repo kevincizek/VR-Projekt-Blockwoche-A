@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://cwxj6v3sbaq17"]
 
-[ext_resource type="PackedScene" uid="uid://d00n838pb2e05" path="res://Weißer_Kabel_Anfang.glb" id="1_fduj1"]
-[ext_resource type="PackedScene" uid="uid://djgs6a3w4prnn" path="res://Weißer_Kabel_Mitte.glb" id="2_4esnc"]
+[ext_resource type="PackedScene" uid="uid://d00n838pb2e05" path="res://Models_GLB/Weißer_Kabel_Anfang.glb" id="1_fduj1"]
+[ext_resource type="PackedScene" uid="uid://djgs6a3w4prnn" path="res://Models_GLB/Weißer_Kabel_Mitte.glb" id="2_4esnc"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_0a4i2"]
 size = Vector3(0.044677734, 0.008544922, 0.014465332)
