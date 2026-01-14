@@ -26,4 +26,4 @@ visible = true
 transform = Transform3D(-0.9990755, 1.0222034e-09, 0.042991646, 0.04298579, -0.0165101, 0.99893904, 0.0007097991, 0.99986374, 0.016494885, 0, 0.115964994, 0)
 
 [node name="GrabPointSnap" parent="." index="4" instance=ExtResource("5_5g3ko")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.1436089, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.100847274, 0)

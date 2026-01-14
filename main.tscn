@@ -41,304 +41,304 @@ size = Vector3(30, 1, 30)
 [sub_resource type="BoxMesh" id="BoxMesh_5vw27"]
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_vivmo"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2cqfq"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_yaehf"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_074og"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_cegan"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_82xsv"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_getpj"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ryguw"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_d13ii"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_1u8w0"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_0odxb"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_lswn8"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_a6jrf"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_xuqvo"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_qsp4k"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_kq58d"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_seu75"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_htxhm"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_jq2sk"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_4k2k6"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_0rl1p"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ok6jj"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_facbu"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_b1qrp"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_come4"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_h8e4i"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_4lmeg"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_0cp0l"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_d2t1y"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_gngh3"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_0n3wm"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_qnost"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_wnkbs"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_f6a44"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_0cbny"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_hrvbo"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_uypp3"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_blkrb"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_abqjc"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_6iyjs"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_4w656"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_e71vb"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_rnkwl"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_vke2r"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_uit24"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ruth0"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_rm4vd"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_pjyto"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_sm6fg"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_b17eg"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_ntx8l"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_uatky"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_rqtf5"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_1vm84"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_wu3dr"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_cyx1q"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_0dhbp"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_jx0wj"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_kkkcx"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_34ol3"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_c2n8d"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_wy5fy"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_gx4rg"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_5dllo"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_phcyf"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_birbe"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_f1p13"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_4obbf"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_ovcoh"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ppx11"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_1yv1y"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_5yh34"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_pjuso"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_23xmf"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_swlj1"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_yysqy"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_n5t1e"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_h6isl"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_53bls"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_lwnsi"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_41lik"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_jbvwl"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_sn1fb"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_yvsr8"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_vieuh"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_yjja3"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_l0gw7"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_inymm"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_jcxqu"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_0arob"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_dij0e"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_k1udn"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_wat4s"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ywjan"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_m74q3"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_tko6h"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_am8a1"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_8dc3g"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_htgcl"]
-size = Vector2(0.25, 0.25)
+size = Vector2(0.4, 0.4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_smeu8"]
-size = Vector3(0.25, 0.01, 0.25)
+size = Vector3(0.4, 0.01, 0.4)
 
 [node name="Main" type="Node3D"]
 
@@ -419,608 +419,608 @@ script = ExtResource("12_dg77c")
 [node name="Grid" parent="." instance=ExtResource("13_ycdy4")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.435961, 0.15950954, 0)
 snap_zone = ExtResource("14_w48qg")
-cellSize = 0.25
+cellSize = 0.4
 
-[node name="@StaticBody3D@87498" type="StaticBody3D" parent="Grid"]
+[node name="@StaticBody3D@89336" type="StaticBody3D" parent="Grid"]
 transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87499" type="MeshInstance3D" parent="Grid/@StaticBody3D@87498"]
+[node name="@MeshInstance3D@89337" type="MeshInstance3D" parent="Grid/@StaticBody3D@89336"]
 mesh = SubResource("PlaneMesh_vivmo")
 
-[node name="@CollisionShape3D@87500" type="CollisionShape3D" parent="Grid/@StaticBody3D@87498"]
+[node name="@CollisionShape3D@89338" type="CollisionShape3D" parent="Grid/@StaticBody3D@89336"]
 shape = SubResource("BoxShape3D_2cqfq")
 
-[node name="@StaticBody3D@87501" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.25099993, 0, 0)
+[node name="@StaticBody3D@89339" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.40100002, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87502" type="MeshInstance3D" parent="Grid/@StaticBody3D@87501"]
+[node name="@MeshInstance3D@89340" type="MeshInstance3D" parent="Grid/@StaticBody3D@89339"]
 mesh = SubResource("PlaneMesh_yaehf")
 
-[node name="@CollisionShape3D@87503" type="CollisionShape3D" parent="Grid/@StaticBody3D@87501"]
+[node name="@CollisionShape3D@89341" type="CollisionShape3D" parent="Grid/@StaticBody3D@89339"]
 shape = SubResource("BoxShape3D_074og")
 
-[node name="@StaticBody3D@87504" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.50199986, 0, 0)
+[node name="@StaticBody3D@89342" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.80200005, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87505" type="MeshInstance3D" parent="Grid/@StaticBody3D@87504"]
+[node name="@MeshInstance3D@89343" type="MeshInstance3D" parent="Grid/@StaticBody3D@89342"]
 mesh = SubResource("PlaneMesh_cegan")
 
-[node name="@CollisionShape3D@87506" type="CollisionShape3D" parent="Grid/@StaticBody3D@87504"]
+[node name="@CollisionShape3D@89344" type="CollisionShape3D" parent="Grid/@StaticBody3D@89342"]
 shape = SubResource("BoxShape3D_82xsv")
 
-[node name="@StaticBody3D@87507" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.753, 0, 0)
+[node name="@StaticBody3D@89345" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2030001, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87508" type="MeshInstance3D" parent="Grid/@StaticBody3D@87507"]
+[node name="@MeshInstance3D@89346" type="MeshInstance3D" parent="Grid/@StaticBody3D@89345"]
 mesh = SubResource("PlaneMesh_getpj")
 
-[node name="@CollisionShape3D@87509" type="CollisionShape3D" parent="Grid/@StaticBody3D@87507"]
+[node name="@CollisionShape3D@89347" type="CollisionShape3D" parent="Grid/@StaticBody3D@89345"]
 shape = SubResource("BoxShape3D_ryguw")
 
-[node name="@StaticBody3D@87510" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.004, 0, 0)
+[node name="@StaticBody3D@89348" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.6040001, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87511" type="MeshInstance3D" parent="Grid/@StaticBody3D@87510"]
+[node name="@MeshInstance3D@89349" type="MeshInstance3D" parent="Grid/@StaticBody3D@89348"]
 mesh = SubResource("PlaneMesh_d13ii")
 
-[node name="@CollisionShape3D@87512" type="CollisionShape3D" parent="Grid/@StaticBody3D@87510"]
+[node name="@CollisionShape3D@89350" type="CollisionShape3D" parent="Grid/@StaticBody3D@89348"]
 shape = SubResource("BoxShape3D_1u8w0")
 
-[node name="@StaticBody3D@87513" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2550001, 0, 0)
+[node name="@StaticBody3D@89351" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.005, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87514" type="MeshInstance3D" parent="Grid/@StaticBody3D@87513"]
+[node name="@MeshInstance3D@89352" type="MeshInstance3D" parent="Grid/@StaticBody3D@89351"]
 mesh = SubResource("PlaneMesh_0odxb")
 
-[node name="@CollisionShape3D@87515" type="CollisionShape3D" parent="Grid/@StaticBody3D@87513"]
+[node name="@CollisionShape3D@89353" type="CollisionShape3D" parent="Grid/@StaticBody3D@89351"]
 shape = SubResource("BoxShape3D_lswn8")
 
-[node name="@StaticBody3D@87516" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.506, 0, 0)
+[node name="@StaticBody3D@89354" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.406, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87517" type="MeshInstance3D" parent="Grid/@StaticBody3D@87516"]
+[node name="@MeshInstance3D@89355" type="MeshInstance3D" parent="Grid/@StaticBody3D@89354"]
 mesh = SubResource("PlaneMesh_a6jrf")
 
-[node name="@CollisionShape3D@87518" type="CollisionShape3D" parent="Grid/@StaticBody3D@87516"]
+[node name="@CollisionShape3D@89356" type="CollisionShape3D" parent="Grid/@StaticBody3D@89354"]
 shape = SubResource("BoxShape3D_xuqvo")
 
-[node name="@StaticBody3D@87519" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.757, 0, 0)
+[node name="@StaticBody3D@89357" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.807, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87520" type="MeshInstance3D" parent="Grid/@StaticBody3D@87519"]
+[node name="@MeshInstance3D@89358" type="MeshInstance3D" parent="Grid/@StaticBody3D@89357"]
 mesh = SubResource("PlaneMesh_qsp4k")
 
-[node name="@CollisionShape3D@87521" type="CollisionShape3D" parent="Grid/@StaticBody3D@87519"]
+[node name="@CollisionShape3D@89359" type="CollisionShape3D" parent="Grid/@StaticBody3D@89357"]
 shape = SubResource("BoxShape3D_kq58d")
 
-[node name="@StaticBody3D@87522" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.008, 0, 0)
+[node name="@StaticBody3D@89360" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.208, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87523" type="MeshInstance3D" parent="Grid/@StaticBody3D@87522"]
+[node name="@MeshInstance3D@89361" type="MeshInstance3D" parent="Grid/@StaticBody3D@89360"]
 mesh = SubResource("PlaneMesh_seu75")
 
-[node name="@CollisionShape3D@87524" type="CollisionShape3D" parent="Grid/@StaticBody3D@87522"]
+[node name="@CollisionShape3D@89362" type="CollisionShape3D" parent="Grid/@StaticBody3D@89360"]
 shape = SubResource("BoxShape3D_htxhm")
 
-[node name="@StaticBody3D@87525" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.259, 0, 0)
+[node name="@StaticBody3D@89363" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.609, 0, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87526" type="MeshInstance3D" parent="Grid/@StaticBody3D@87525"]
+[node name="@MeshInstance3D@89364" type="MeshInstance3D" parent="Grid/@StaticBody3D@89363"]
 mesh = SubResource("PlaneMesh_jq2sk")
 
-[node name="@CollisionShape3D@87527" type="CollisionShape3D" parent="Grid/@StaticBody3D@87525"]
+[node name="@CollisionShape3D@89365" type="CollisionShape3D" parent="Grid/@StaticBody3D@89363"]
 shape = SubResource("BoxShape3D_4k2k6")
 
-[node name="@StaticBody3D@87528" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0.251, 0)
+[node name="@StaticBody3D@89366" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87529" type="MeshInstance3D" parent="Grid/@StaticBody3D@87528"]
+[node name="@MeshInstance3D@89367" type="MeshInstance3D" parent="Grid/@StaticBody3D@89366"]
 mesh = SubResource("PlaneMesh_0rl1p")
 
-[node name="@CollisionShape3D@87530" type="CollisionShape3D" parent="Grid/@StaticBody3D@87528"]
+[node name="@CollisionShape3D@89368" type="CollisionShape3D" parent="Grid/@StaticBody3D@89366"]
 shape = SubResource("BoxShape3D_ok6jj")
 
-[node name="@StaticBody3D@87531" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.25099993, 0.251, 0)
+[node name="@StaticBody3D@89369" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.40100002, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87532" type="MeshInstance3D" parent="Grid/@StaticBody3D@87531"]
+[node name="@MeshInstance3D@89370" type="MeshInstance3D" parent="Grid/@StaticBody3D@89369"]
 mesh = SubResource("PlaneMesh_facbu")
 
-[node name="@CollisionShape3D@87533" type="CollisionShape3D" parent="Grid/@StaticBody3D@87531"]
+[node name="@CollisionShape3D@89371" type="CollisionShape3D" parent="Grid/@StaticBody3D@89369"]
 shape = SubResource("BoxShape3D_b1qrp")
 
-[node name="@StaticBody3D@87534" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.50199986, 0.251, 0)
+[node name="@StaticBody3D@89372" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.80200005, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87535" type="MeshInstance3D" parent="Grid/@StaticBody3D@87534"]
+[node name="@MeshInstance3D@89373" type="MeshInstance3D" parent="Grid/@StaticBody3D@89372"]
 mesh = SubResource("PlaneMesh_come4")
 
-[node name="@CollisionShape3D@87536" type="CollisionShape3D" parent="Grid/@StaticBody3D@87534"]
+[node name="@CollisionShape3D@89374" type="CollisionShape3D" parent="Grid/@StaticBody3D@89372"]
 shape = SubResource("BoxShape3D_h8e4i")
 
-[node name="@StaticBody3D@87537" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.753, 0.251, 0)
+[node name="@StaticBody3D@89375" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2030001, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87538" type="MeshInstance3D" parent="Grid/@StaticBody3D@87537"]
+[node name="@MeshInstance3D@89376" type="MeshInstance3D" parent="Grid/@StaticBody3D@89375"]
 mesh = SubResource("PlaneMesh_4lmeg")
 
-[node name="@CollisionShape3D@87539" type="CollisionShape3D" parent="Grid/@StaticBody3D@87537"]
+[node name="@CollisionShape3D@89377" type="CollisionShape3D" parent="Grid/@StaticBody3D@89375"]
 shape = SubResource("BoxShape3D_0cp0l")
 
-[node name="@StaticBody3D@87540" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.004, 0.251, 0)
+[node name="@StaticBody3D@89378" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.6040001, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87541" type="MeshInstance3D" parent="Grid/@StaticBody3D@87540"]
+[node name="@MeshInstance3D@89379" type="MeshInstance3D" parent="Grid/@StaticBody3D@89378"]
 mesh = SubResource("PlaneMesh_d2t1y")
 
-[node name="@CollisionShape3D@87542" type="CollisionShape3D" parent="Grid/@StaticBody3D@87540"]
+[node name="@CollisionShape3D@89380" type="CollisionShape3D" parent="Grid/@StaticBody3D@89378"]
 shape = SubResource("BoxShape3D_gngh3")
 
-[node name="@StaticBody3D@87543" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2550001, 0.251, 0)
+[node name="@StaticBody3D@89381" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.005, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87544" type="MeshInstance3D" parent="Grid/@StaticBody3D@87543"]
+[node name="@MeshInstance3D@89382" type="MeshInstance3D" parent="Grid/@StaticBody3D@89381"]
 mesh = SubResource("PlaneMesh_0n3wm")
 
-[node name="@CollisionShape3D@87545" type="CollisionShape3D" parent="Grid/@StaticBody3D@87543"]
+[node name="@CollisionShape3D@89383" type="CollisionShape3D" parent="Grid/@StaticBody3D@89381"]
 shape = SubResource("BoxShape3D_qnost")
 
-[node name="@StaticBody3D@87546" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.506, 0.251, 0)
+[node name="@StaticBody3D@89384" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.406, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87547" type="MeshInstance3D" parent="Grid/@StaticBody3D@87546"]
+[node name="@MeshInstance3D@89385" type="MeshInstance3D" parent="Grid/@StaticBody3D@89384"]
 mesh = SubResource("PlaneMesh_wnkbs")
 
-[node name="@CollisionShape3D@87548" type="CollisionShape3D" parent="Grid/@StaticBody3D@87546"]
+[node name="@CollisionShape3D@89386" type="CollisionShape3D" parent="Grid/@StaticBody3D@89384"]
 shape = SubResource("BoxShape3D_f6a44")
 
-[node name="@StaticBody3D@87549" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.757, 0.251, 0)
+[node name="@StaticBody3D@89387" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.807, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87550" type="MeshInstance3D" parent="Grid/@StaticBody3D@87549"]
+[node name="@MeshInstance3D@89388" type="MeshInstance3D" parent="Grid/@StaticBody3D@89387"]
 mesh = SubResource("PlaneMesh_0cbny")
 
-[node name="@CollisionShape3D@87551" type="CollisionShape3D" parent="Grid/@StaticBody3D@87549"]
+[node name="@CollisionShape3D@89389" type="CollisionShape3D" parent="Grid/@StaticBody3D@89387"]
 shape = SubResource("BoxShape3D_hrvbo")
 
-[node name="@StaticBody3D@87552" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.008, 0.251, 0)
+[node name="@StaticBody3D@89390" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.208, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87553" type="MeshInstance3D" parent="Grid/@StaticBody3D@87552"]
+[node name="@MeshInstance3D@89391" type="MeshInstance3D" parent="Grid/@StaticBody3D@89390"]
 mesh = SubResource("PlaneMesh_uypp3")
 
-[node name="@CollisionShape3D@87554" type="CollisionShape3D" parent="Grid/@StaticBody3D@87552"]
+[node name="@CollisionShape3D@89392" type="CollisionShape3D" parent="Grid/@StaticBody3D@89390"]
 shape = SubResource("BoxShape3D_blkrb")
 
-[node name="@StaticBody3D@87555" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.259, 0.251, 0)
+[node name="@StaticBody3D@89393" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.609, 0.40100002, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87556" type="MeshInstance3D" parent="Grid/@StaticBody3D@87555"]
+[node name="@MeshInstance3D@89394" type="MeshInstance3D" parent="Grid/@StaticBody3D@89393"]
 mesh = SubResource("PlaneMesh_abqjc")
 
-[node name="@CollisionShape3D@87557" type="CollisionShape3D" parent="Grid/@StaticBody3D@87555"]
+[node name="@CollisionShape3D@89395" type="CollisionShape3D" parent="Grid/@StaticBody3D@89393"]
 shape = SubResource("BoxShape3D_6iyjs")
 
-[node name="@StaticBody3D@87558" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0.502, 0)
+[node name="@StaticBody3D@89396" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87559" type="MeshInstance3D" parent="Grid/@StaticBody3D@87558"]
+[node name="@MeshInstance3D@89397" type="MeshInstance3D" parent="Grid/@StaticBody3D@89396"]
 mesh = SubResource("PlaneMesh_4w656")
 
-[node name="@CollisionShape3D@87560" type="CollisionShape3D" parent="Grid/@StaticBody3D@87558"]
+[node name="@CollisionShape3D@89398" type="CollisionShape3D" parent="Grid/@StaticBody3D@89396"]
 shape = SubResource("BoxShape3D_e71vb")
 
-[node name="@StaticBody3D@87561" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.25099993, 0.502, 0)
+[node name="@StaticBody3D@89399" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.40100002, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87562" type="MeshInstance3D" parent="Grid/@StaticBody3D@87561"]
+[node name="@MeshInstance3D@89400" type="MeshInstance3D" parent="Grid/@StaticBody3D@89399"]
 mesh = SubResource("PlaneMesh_rnkwl")
 
-[node name="@CollisionShape3D@87563" type="CollisionShape3D" parent="Grid/@StaticBody3D@87561"]
+[node name="@CollisionShape3D@89401" type="CollisionShape3D" parent="Grid/@StaticBody3D@89399"]
 shape = SubResource("BoxShape3D_vke2r")
 
-[node name="@StaticBody3D@87564" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.50199986, 0.502, 0)
+[node name="@StaticBody3D@89402" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.80200005, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87565" type="MeshInstance3D" parent="Grid/@StaticBody3D@87564"]
+[node name="@MeshInstance3D@89403" type="MeshInstance3D" parent="Grid/@StaticBody3D@89402"]
 mesh = SubResource("PlaneMesh_uit24")
 
-[node name="@CollisionShape3D@87566" type="CollisionShape3D" parent="Grid/@StaticBody3D@87564"]
+[node name="@CollisionShape3D@89404" type="CollisionShape3D" parent="Grid/@StaticBody3D@89402"]
 shape = SubResource("BoxShape3D_ruth0")
 
-[node name="@StaticBody3D@87567" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.753, 0.502, 0)
+[node name="@StaticBody3D@89405" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2030001, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87568" type="MeshInstance3D" parent="Grid/@StaticBody3D@87567"]
+[node name="@MeshInstance3D@89406" type="MeshInstance3D" parent="Grid/@StaticBody3D@89405"]
 mesh = SubResource("PlaneMesh_rm4vd")
 
-[node name="@CollisionShape3D@87569" type="CollisionShape3D" parent="Grid/@StaticBody3D@87567"]
+[node name="@CollisionShape3D@89407" type="CollisionShape3D" parent="Grid/@StaticBody3D@89405"]
 shape = SubResource("BoxShape3D_pjyto")
 
-[node name="@StaticBody3D@87570" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.004, 0.502, 0)
+[node name="@StaticBody3D@89408" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.6040001, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87571" type="MeshInstance3D" parent="Grid/@StaticBody3D@87570"]
+[node name="@MeshInstance3D@89409" type="MeshInstance3D" parent="Grid/@StaticBody3D@89408"]
 mesh = SubResource("PlaneMesh_sm6fg")
 
-[node name="@CollisionShape3D@87572" type="CollisionShape3D" parent="Grid/@StaticBody3D@87570"]
+[node name="@CollisionShape3D@89410" type="CollisionShape3D" parent="Grid/@StaticBody3D@89408"]
 shape = SubResource("BoxShape3D_b17eg")
 
-[node name="@StaticBody3D@87573" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2550001, 0.502, 0)
+[node name="@StaticBody3D@89411" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.005, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87574" type="MeshInstance3D" parent="Grid/@StaticBody3D@87573"]
+[node name="@MeshInstance3D@89412" type="MeshInstance3D" parent="Grid/@StaticBody3D@89411"]
 mesh = SubResource("PlaneMesh_ntx8l")
 
-[node name="@CollisionShape3D@87575" type="CollisionShape3D" parent="Grid/@StaticBody3D@87573"]
+[node name="@CollisionShape3D@89413" type="CollisionShape3D" parent="Grid/@StaticBody3D@89411"]
 shape = SubResource("BoxShape3D_uatky")
 
-[node name="@StaticBody3D@87576" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.506, 0.502, 0)
+[node name="@StaticBody3D@89414" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.406, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87577" type="MeshInstance3D" parent="Grid/@StaticBody3D@87576"]
+[node name="@MeshInstance3D@89415" type="MeshInstance3D" parent="Grid/@StaticBody3D@89414"]
 mesh = SubResource("PlaneMesh_rqtf5")
 
-[node name="@CollisionShape3D@87578" type="CollisionShape3D" parent="Grid/@StaticBody3D@87576"]
+[node name="@CollisionShape3D@89416" type="CollisionShape3D" parent="Grid/@StaticBody3D@89414"]
 shape = SubResource("BoxShape3D_1vm84")
 
-[node name="@StaticBody3D@87579" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.757, 0.502, 0)
+[node name="@StaticBody3D@89417" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.807, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87580" type="MeshInstance3D" parent="Grid/@StaticBody3D@87579"]
+[node name="@MeshInstance3D@89418" type="MeshInstance3D" parent="Grid/@StaticBody3D@89417"]
 mesh = SubResource("PlaneMesh_wu3dr")
 
-[node name="@CollisionShape3D@87581" type="CollisionShape3D" parent="Grid/@StaticBody3D@87579"]
+[node name="@CollisionShape3D@89419" type="CollisionShape3D" parent="Grid/@StaticBody3D@89417"]
 shape = SubResource("BoxShape3D_cyx1q")
 
-[node name="@StaticBody3D@87582" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.008, 0.502, 0)
+[node name="@StaticBody3D@89420" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.208, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87583" type="MeshInstance3D" parent="Grid/@StaticBody3D@87582"]
+[node name="@MeshInstance3D@89421" type="MeshInstance3D" parent="Grid/@StaticBody3D@89420"]
 mesh = SubResource("PlaneMesh_0dhbp")
 
-[node name="@CollisionShape3D@87584" type="CollisionShape3D" parent="Grid/@StaticBody3D@87582"]
+[node name="@CollisionShape3D@89422" type="CollisionShape3D" parent="Grid/@StaticBody3D@89420"]
 shape = SubResource("BoxShape3D_jx0wj")
 
-[node name="@StaticBody3D@87585" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.259, 0.502, 0)
+[node name="@StaticBody3D@89423" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.609, 0.802, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87586" type="MeshInstance3D" parent="Grid/@StaticBody3D@87585"]
+[node name="@MeshInstance3D@89424" type="MeshInstance3D" parent="Grid/@StaticBody3D@89423"]
 mesh = SubResource("PlaneMesh_kkkcx")
 
-[node name="@CollisionShape3D@87587" type="CollisionShape3D" parent="Grid/@StaticBody3D@87585"]
+[node name="@CollisionShape3D@89425" type="CollisionShape3D" parent="Grid/@StaticBody3D@89423"]
 shape = SubResource("BoxShape3D_34ol3")
 
-[node name="@StaticBody3D@87588" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0.753, 0)
+[node name="@StaticBody3D@89426" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87589" type="MeshInstance3D" parent="Grid/@StaticBody3D@87588"]
+[node name="@MeshInstance3D@89427" type="MeshInstance3D" parent="Grid/@StaticBody3D@89426"]
 mesh = SubResource("PlaneMesh_c2n8d")
 
-[node name="@CollisionShape3D@87590" type="CollisionShape3D" parent="Grid/@StaticBody3D@87588"]
+[node name="@CollisionShape3D@89428" type="CollisionShape3D" parent="Grid/@StaticBody3D@89426"]
 shape = SubResource("BoxShape3D_wy5fy")
 
-[node name="@StaticBody3D@87591" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.25099993, 0.753, 0)
+[node name="@StaticBody3D@89429" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.40100002, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87592" type="MeshInstance3D" parent="Grid/@StaticBody3D@87591"]
+[node name="@MeshInstance3D@89430" type="MeshInstance3D" parent="Grid/@StaticBody3D@89429"]
 mesh = SubResource("PlaneMesh_gx4rg")
 
-[node name="@CollisionShape3D@87593" type="CollisionShape3D" parent="Grid/@StaticBody3D@87591"]
+[node name="@CollisionShape3D@89431" type="CollisionShape3D" parent="Grid/@StaticBody3D@89429"]
 shape = SubResource("BoxShape3D_5dllo")
 
-[node name="@StaticBody3D@87594" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.50199986, 0.753, 0)
+[node name="@StaticBody3D@89432" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.80200005, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87595" type="MeshInstance3D" parent="Grid/@StaticBody3D@87594"]
+[node name="@MeshInstance3D@89433" type="MeshInstance3D" parent="Grid/@StaticBody3D@89432"]
 mesh = SubResource("PlaneMesh_phcyf")
 
-[node name="@CollisionShape3D@87596" type="CollisionShape3D" parent="Grid/@StaticBody3D@87594"]
+[node name="@CollisionShape3D@89434" type="CollisionShape3D" parent="Grid/@StaticBody3D@89432"]
 shape = SubResource("BoxShape3D_birbe")
 
-[node name="@StaticBody3D@87597" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.753, 0.753, 0)
+[node name="@StaticBody3D@89435" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2030001, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87598" type="MeshInstance3D" parent="Grid/@StaticBody3D@87597"]
+[node name="@MeshInstance3D@89436" type="MeshInstance3D" parent="Grid/@StaticBody3D@89435"]
 mesh = SubResource("PlaneMesh_f1p13")
 
-[node name="@CollisionShape3D@87599" type="CollisionShape3D" parent="Grid/@StaticBody3D@87597"]
+[node name="@CollisionShape3D@89437" type="CollisionShape3D" parent="Grid/@StaticBody3D@89435"]
 shape = SubResource("BoxShape3D_4obbf")
 
-[node name="@StaticBody3D@87600" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.004, 0.753, 0)
+[node name="@StaticBody3D@89438" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.6040001, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87601" type="MeshInstance3D" parent="Grid/@StaticBody3D@87600"]
+[node name="@MeshInstance3D@89439" type="MeshInstance3D" parent="Grid/@StaticBody3D@89438"]
 mesh = SubResource("PlaneMesh_ovcoh")
 
-[node name="@CollisionShape3D@87602" type="CollisionShape3D" parent="Grid/@StaticBody3D@87600"]
+[node name="@CollisionShape3D@89440" type="CollisionShape3D" parent="Grid/@StaticBody3D@89438"]
 shape = SubResource("BoxShape3D_ppx11")
 
-[node name="@StaticBody3D@87603" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2550001, 0.753, 0)
+[node name="@StaticBody3D@89441" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.005, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87604" type="MeshInstance3D" parent="Grid/@StaticBody3D@87603"]
+[node name="@MeshInstance3D@89442" type="MeshInstance3D" parent="Grid/@StaticBody3D@89441"]
 mesh = SubResource("PlaneMesh_1yv1y")
 
-[node name="@CollisionShape3D@87605" type="CollisionShape3D" parent="Grid/@StaticBody3D@87603"]
+[node name="@CollisionShape3D@89443" type="CollisionShape3D" parent="Grid/@StaticBody3D@89441"]
 shape = SubResource("BoxShape3D_5yh34")
 
-[node name="@StaticBody3D@87606" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.506, 0.753, 0)
+[node name="@StaticBody3D@89444" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.406, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87607" type="MeshInstance3D" parent="Grid/@StaticBody3D@87606"]
+[node name="@MeshInstance3D@89445" type="MeshInstance3D" parent="Grid/@StaticBody3D@89444"]
 mesh = SubResource("PlaneMesh_pjuso")
 
-[node name="@CollisionShape3D@87608" type="CollisionShape3D" parent="Grid/@StaticBody3D@87606"]
+[node name="@CollisionShape3D@89446" type="CollisionShape3D" parent="Grid/@StaticBody3D@89444"]
 shape = SubResource("BoxShape3D_23xmf")
 
-[node name="@StaticBody3D@87609" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.757, 0.753, 0)
+[node name="@StaticBody3D@89447" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.807, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87610" type="MeshInstance3D" parent="Grid/@StaticBody3D@87609"]
+[node name="@MeshInstance3D@89448" type="MeshInstance3D" parent="Grid/@StaticBody3D@89447"]
 mesh = SubResource("PlaneMesh_swlj1")
 
-[node name="@CollisionShape3D@87611" type="CollisionShape3D" parent="Grid/@StaticBody3D@87609"]
+[node name="@CollisionShape3D@89449" type="CollisionShape3D" parent="Grid/@StaticBody3D@89447"]
 shape = SubResource("BoxShape3D_yysqy")
 
-[node name="@StaticBody3D@87612" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.008, 0.753, 0)
+[node name="@StaticBody3D@89450" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.208, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87613" type="MeshInstance3D" parent="Grid/@StaticBody3D@87612"]
+[node name="@MeshInstance3D@89451" type="MeshInstance3D" parent="Grid/@StaticBody3D@89450"]
 mesh = SubResource("PlaneMesh_n5t1e")
 
-[node name="@CollisionShape3D@87614" type="CollisionShape3D" parent="Grid/@StaticBody3D@87612"]
+[node name="@CollisionShape3D@89452" type="CollisionShape3D" parent="Grid/@StaticBody3D@89450"]
 shape = SubResource("BoxShape3D_h6isl")
 
-[node name="@StaticBody3D@87615" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.259, 0.753, 0)
+[node name="@StaticBody3D@89453" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.609, 1.203, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87616" type="MeshInstance3D" parent="Grid/@StaticBody3D@87615"]
+[node name="@MeshInstance3D@89454" type="MeshInstance3D" parent="Grid/@StaticBody3D@89453"]
 mesh = SubResource("PlaneMesh_53bls")
 
-[node name="@CollisionShape3D@87617" type="CollisionShape3D" parent="Grid/@StaticBody3D@87615"]
+[node name="@CollisionShape3D@89455" type="CollisionShape3D" parent="Grid/@StaticBody3D@89453"]
 shape = SubResource("BoxShape3D_lwnsi")
 
-[node name="@StaticBody3D@87618" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 1.004, 0)
+[node name="@StaticBody3D@89456" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87619" type="MeshInstance3D" parent="Grid/@StaticBody3D@87618"]
+[node name="@MeshInstance3D@89457" type="MeshInstance3D" parent="Grid/@StaticBody3D@89456"]
 mesh = SubResource("PlaneMesh_41lik")
 
-[node name="@CollisionShape3D@87620" type="CollisionShape3D" parent="Grid/@StaticBody3D@87618"]
+[node name="@CollisionShape3D@89458" type="CollisionShape3D" parent="Grid/@StaticBody3D@89456"]
 shape = SubResource("BoxShape3D_jbvwl")
 
-[node name="@StaticBody3D@87621" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.25099993, 1.004, 0)
+[node name="@StaticBody3D@89459" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.40100002, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87622" type="MeshInstance3D" parent="Grid/@StaticBody3D@87621"]
+[node name="@MeshInstance3D@89460" type="MeshInstance3D" parent="Grid/@StaticBody3D@89459"]
 mesh = SubResource("PlaneMesh_sn1fb")
 
-[node name="@CollisionShape3D@87623" type="CollisionShape3D" parent="Grid/@StaticBody3D@87621"]
+[node name="@CollisionShape3D@89461" type="CollisionShape3D" parent="Grid/@StaticBody3D@89459"]
 shape = SubResource("BoxShape3D_yvsr8")
 
-[node name="@StaticBody3D@87624" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.50199986, 1.004, 0)
+[node name="@StaticBody3D@89462" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.80200005, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87625" type="MeshInstance3D" parent="Grid/@StaticBody3D@87624"]
+[node name="@MeshInstance3D@89463" type="MeshInstance3D" parent="Grid/@StaticBody3D@89462"]
 mesh = SubResource("PlaneMesh_vieuh")
 
-[node name="@CollisionShape3D@87626" type="CollisionShape3D" parent="Grid/@StaticBody3D@87624"]
+[node name="@CollisionShape3D@89464" type="CollisionShape3D" parent="Grid/@StaticBody3D@89462"]
 shape = SubResource("BoxShape3D_yjja3")
 
-[node name="@StaticBody3D@87627" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0.753, 1.004, 0)
+[node name="@StaticBody3D@89465" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2030001, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87628" type="MeshInstance3D" parent="Grid/@StaticBody3D@87627"]
+[node name="@MeshInstance3D@89466" type="MeshInstance3D" parent="Grid/@StaticBody3D@89465"]
 mesh = SubResource("PlaneMesh_l0gw7")
 
-[node name="@CollisionShape3D@87629" type="CollisionShape3D" parent="Grid/@StaticBody3D@87627"]
+[node name="@CollisionShape3D@89467" type="CollisionShape3D" parent="Grid/@StaticBody3D@89465"]
 shape = SubResource("BoxShape3D_inymm")
 
-[node name="@StaticBody3D@87630" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.004, 1.004, 0)
+[node name="@StaticBody3D@89468" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.6040001, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87631" type="MeshInstance3D" parent="Grid/@StaticBody3D@87630"]
+[node name="@MeshInstance3D@89469" type="MeshInstance3D" parent="Grid/@StaticBody3D@89468"]
 mesh = SubResource("PlaneMesh_jcxqu")
 
-[node name="@CollisionShape3D@87632" type="CollisionShape3D" parent="Grid/@StaticBody3D@87630"]
+[node name="@CollisionShape3D@89470" type="CollisionShape3D" parent="Grid/@StaticBody3D@89468"]
 shape = SubResource("BoxShape3D_0arob")
 
-[node name="@StaticBody3D@87633" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.2550001, 1.004, 0)
+[node name="@StaticBody3D@89471" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.005, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87634" type="MeshInstance3D" parent="Grid/@StaticBody3D@87633"]
+[node name="@MeshInstance3D@89472" type="MeshInstance3D" parent="Grid/@StaticBody3D@89471"]
 mesh = SubResource("PlaneMesh_dij0e")
 
-[node name="@CollisionShape3D@87635" type="CollisionShape3D" parent="Grid/@StaticBody3D@87633"]
+[node name="@CollisionShape3D@89473" type="CollisionShape3D" parent="Grid/@StaticBody3D@89471"]
 shape = SubResource("BoxShape3D_k1udn")
 
-[node name="@StaticBody3D@87636" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.506, 1.004, 0)
+[node name="@StaticBody3D@89474" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.406, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87637" type="MeshInstance3D" parent="Grid/@StaticBody3D@87636"]
+[node name="@MeshInstance3D@89475" type="MeshInstance3D" parent="Grid/@StaticBody3D@89474"]
 mesh = SubResource("PlaneMesh_wat4s")
 
-[node name="@CollisionShape3D@87638" type="CollisionShape3D" parent="Grid/@StaticBody3D@87636"]
+[node name="@CollisionShape3D@89476" type="CollisionShape3D" parent="Grid/@StaticBody3D@89474"]
 shape = SubResource("BoxShape3D_ywjan")
 
-[node name="@StaticBody3D@87639" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 1.757, 1.004, 0)
+[node name="@StaticBody3D@89477" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.807, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87640" type="MeshInstance3D" parent="Grid/@StaticBody3D@87639"]
+[node name="@MeshInstance3D@89478" type="MeshInstance3D" parent="Grid/@StaticBody3D@89477"]
 mesh = SubResource("PlaneMesh_m74q3")
 
-[node name="@CollisionShape3D@87641" type="CollisionShape3D" parent="Grid/@StaticBody3D@87639"]
+[node name="@CollisionShape3D@89479" type="CollisionShape3D" parent="Grid/@StaticBody3D@89477"]
 shape = SubResource("BoxShape3D_tko6h")
 
-[node name="@StaticBody3D@87642" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.008, 1.004, 0)
+[node name="@StaticBody3D@89480" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.208, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87643" type="MeshInstance3D" parent="Grid/@StaticBody3D@87642"]
+[node name="@MeshInstance3D@89481" type="MeshInstance3D" parent="Grid/@StaticBody3D@89480"]
 mesh = SubResource("PlaneMesh_am8a1")
 
-[node name="@CollisionShape3D@87644" type="CollisionShape3D" parent="Grid/@StaticBody3D@87642"]
+[node name="@CollisionShape3D@89482" type="CollisionShape3D" parent="Grid/@StaticBody3D@89480"]
 shape = SubResource("BoxShape3D_8dc3g")
 
-[node name="@StaticBody3D@87645" type="StaticBody3D" parent="Grid"]
-transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 2.259, 1.004, 0)
+[node name="@StaticBody3D@89483" type="StaticBody3D" parent="Grid"]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 3.609, 1.604, 0)
 collision_mask = 0
 
-[node name="@MeshInstance3D@87646" type="MeshInstance3D" parent="Grid/@StaticBody3D@87645"]
+[node name="@MeshInstance3D@89484" type="MeshInstance3D" parent="Grid/@StaticBody3D@89483"]
 mesh = SubResource("PlaneMesh_htgcl")
 
-[node name="@CollisionShape3D@87647" type="CollisionShape3D" parent="Grid/@StaticBody3D@87645"]
+[node name="@CollisionShape3D@89485" type="CollisionShape3D" parent="Grid/@StaticBody3D@89483"]
 shape = SubResource("BoxShape3D_smeu8")
 
 [node name="PickableObject" parent="." instance=ExtResource("15_vivmo")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.1266499, 0.7201246, -0.7833748)
 
-[connection signal="body_entered" from="Grid/@StaticBody3D@87498/SnapZone" to="Grid/@StaticBody3D@87498/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87498/SnapZone" to="Grid/@StaticBody3D@87498/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87501/SnapZone" to="Grid/@StaticBody3D@87501/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87501/SnapZone" to="Grid/@StaticBody3D@87501/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87504/SnapZone" to="Grid/@StaticBody3D@87504/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87504/SnapZone" to="Grid/@StaticBody3D@87504/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87507/SnapZone" to="Grid/@StaticBody3D@87507/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87507/SnapZone" to="Grid/@StaticBody3D@87507/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87510/SnapZone" to="Grid/@StaticBody3D@87510/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87510/SnapZone" to="Grid/@StaticBody3D@87510/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87513/SnapZone" to="Grid/@StaticBody3D@87513/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87513/SnapZone" to="Grid/@StaticBody3D@87513/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87516/SnapZone" to="Grid/@StaticBody3D@87516/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87516/SnapZone" to="Grid/@StaticBody3D@87516/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87519/SnapZone" to="Grid/@StaticBody3D@87519/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87519/SnapZone" to="Grid/@StaticBody3D@87519/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87522/SnapZone" to="Grid/@StaticBody3D@87522/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87522/SnapZone" to="Grid/@StaticBody3D@87522/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87525/SnapZone" to="Grid/@StaticBody3D@87525/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87525/SnapZone" to="Grid/@StaticBody3D@87525/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87528/SnapZone" to="Grid/@StaticBody3D@87528/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87528/SnapZone" to="Grid/@StaticBody3D@87528/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87531/SnapZone" to="Grid/@StaticBody3D@87531/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87531/SnapZone" to="Grid/@StaticBody3D@87531/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87534/SnapZone" to="Grid/@StaticBody3D@87534/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87534/SnapZone" to="Grid/@StaticBody3D@87534/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87537/SnapZone" to="Grid/@StaticBody3D@87537/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87537/SnapZone" to="Grid/@StaticBody3D@87537/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87540/SnapZone" to="Grid/@StaticBody3D@87540/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87540/SnapZone" to="Grid/@StaticBody3D@87540/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87543/SnapZone" to="Grid/@StaticBody3D@87543/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87543/SnapZone" to="Grid/@StaticBody3D@87543/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87546/SnapZone" to="Grid/@StaticBody3D@87546/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87546/SnapZone" to="Grid/@StaticBody3D@87546/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87549/SnapZone" to="Grid/@StaticBody3D@87549/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87549/SnapZone" to="Grid/@StaticBody3D@87549/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87552/SnapZone" to="Grid/@StaticBody3D@87552/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87552/SnapZone" to="Grid/@StaticBody3D@87552/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87555/SnapZone" to="Grid/@StaticBody3D@87555/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87555/SnapZone" to="Grid/@StaticBody3D@87555/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87558/SnapZone" to="Grid/@StaticBody3D@87558/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87558/SnapZone" to="Grid/@StaticBody3D@87558/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87561/SnapZone" to="Grid/@StaticBody3D@87561/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87561/SnapZone" to="Grid/@StaticBody3D@87561/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87564/SnapZone" to="Grid/@StaticBody3D@87564/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87564/SnapZone" to="Grid/@StaticBody3D@87564/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87567/SnapZone" to="Grid/@StaticBody3D@87567/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87567/SnapZone" to="Grid/@StaticBody3D@87567/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87570/SnapZone" to="Grid/@StaticBody3D@87570/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87570/SnapZone" to="Grid/@StaticBody3D@87570/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87573/SnapZone" to="Grid/@StaticBody3D@87573/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87573/SnapZone" to="Grid/@StaticBody3D@87573/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87576/SnapZone" to="Grid/@StaticBody3D@87576/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87576/SnapZone" to="Grid/@StaticBody3D@87576/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87579/SnapZone" to="Grid/@StaticBody3D@87579/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87579/SnapZone" to="Grid/@StaticBody3D@87579/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87582/SnapZone" to="Grid/@StaticBody3D@87582/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87582/SnapZone" to="Grid/@StaticBody3D@87582/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87585/SnapZone" to="Grid/@StaticBody3D@87585/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87585/SnapZone" to="Grid/@StaticBody3D@87585/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87588/SnapZone" to="Grid/@StaticBody3D@87588/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87588/SnapZone" to="Grid/@StaticBody3D@87588/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87591/SnapZone" to="Grid/@StaticBody3D@87591/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87591/SnapZone" to="Grid/@StaticBody3D@87591/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87594/SnapZone" to="Grid/@StaticBody3D@87594/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87594/SnapZone" to="Grid/@StaticBody3D@87594/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87597/SnapZone" to="Grid/@StaticBody3D@87597/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87597/SnapZone" to="Grid/@StaticBody3D@87597/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87600/SnapZone" to="Grid/@StaticBody3D@87600/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87600/SnapZone" to="Grid/@StaticBody3D@87600/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87603/SnapZone" to="Grid/@StaticBody3D@87603/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87603/SnapZone" to="Grid/@StaticBody3D@87603/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87606/SnapZone" to="Grid/@StaticBody3D@87606/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87606/SnapZone" to="Grid/@StaticBody3D@87606/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87609/SnapZone" to="Grid/@StaticBody3D@87609/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87609/SnapZone" to="Grid/@StaticBody3D@87609/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87612/SnapZone" to="Grid/@StaticBody3D@87612/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87612/SnapZone" to="Grid/@StaticBody3D@87612/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87615/SnapZone" to="Grid/@StaticBody3D@87615/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87615/SnapZone" to="Grid/@StaticBody3D@87615/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87618/SnapZone" to="Grid/@StaticBody3D@87618/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87618/SnapZone" to="Grid/@StaticBody3D@87618/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87621/SnapZone" to="Grid/@StaticBody3D@87621/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87621/SnapZone" to="Grid/@StaticBody3D@87621/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87624/SnapZone" to="Grid/@StaticBody3D@87624/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87624/SnapZone" to="Grid/@StaticBody3D@87624/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87627/SnapZone" to="Grid/@StaticBody3D@87627/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87627/SnapZone" to="Grid/@StaticBody3D@87627/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87630/SnapZone" to="Grid/@StaticBody3D@87630/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87630/SnapZone" to="Grid/@StaticBody3D@87630/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87633/SnapZone" to="Grid/@StaticBody3D@87633/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87633/SnapZone" to="Grid/@StaticBody3D@87633/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87636/SnapZone" to="Grid/@StaticBody3D@87636/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87636/SnapZone" to="Grid/@StaticBody3D@87636/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87639/SnapZone" to="Grid/@StaticBody3D@87639/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87639/SnapZone" to="Grid/@StaticBody3D@87639/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87642/SnapZone" to="Grid/@StaticBody3D@87642/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87642/SnapZone" to="Grid/@StaticBody3D@87642/SnapZone" method="_on_snap_zone_body_exited"]
-[connection signal="body_entered" from="Grid/@StaticBody3D@87645/SnapZone" to="Grid/@StaticBody3D@87645/SnapZone" method="_on_snap_zone_body_entered"]
-[connection signal="body_exited" from="Grid/@StaticBody3D@87645/SnapZone" to="Grid/@StaticBody3D@87645/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89336/SnapZone" to="Grid/@StaticBody3D@89336/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89336/SnapZone" to="Grid/@StaticBody3D@89336/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89339/SnapZone" to="Grid/@StaticBody3D@89339/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89339/SnapZone" to="Grid/@StaticBody3D@89339/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89342/SnapZone" to="Grid/@StaticBody3D@89342/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89342/SnapZone" to="Grid/@StaticBody3D@89342/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89345/SnapZone" to="Grid/@StaticBody3D@89345/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89345/SnapZone" to="Grid/@StaticBody3D@89345/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89348/SnapZone" to="Grid/@StaticBody3D@89348/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89348/SnapZone" to="Grid/@StaticBody3D@89348/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89351/SnapZone" to="Grid/@StaticBody3D@89351/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89351/SnapZone" to="Grid/@StaticBody3D@89351/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89354/SnapZone" to="Grid/@StaticBody3D@89354/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89354/SnapZone" to="Grid/@StaticBody3D@89354/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89357/SnapZone" to="Grid/@StaticBody3D@89357/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89357/SnapZone" to="Grid/@StaticBody3D@89357/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89360/SnapZone" to="Grid/@StaticBody3D@89360/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89360/SnapZone" to="Grid/@StaticBody3D@89360/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89363/SnapZone" to="Grid/@StaticBody3D@89363/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89363/SnapZone" to="Grid/@StaticBody3D@89363/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89366/SnapZone" to="Grid/@StaticBody3D@89366/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89366/SnapZone" to="Grid/@StaticBody3D@89366/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89369/SnapZone" to="Grid/@StaticBody3D@89369/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89369/SnapZone" to="Grid/@StaticBody3D@89369/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89372/SnapZone" to="Grid/@StaticBody3D@89372/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89372/SnapZone" to="Grid/@StaticBody3D@89372/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89375/SnapZone" to="Grid/@StaticBody3D@89375/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89375/SnapZone" to="Grid/@StaticBody3D@89375/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89378/SnapZone" to="Grid/@StaticBody3D@89378/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89378/SnapZone" to="Grid/@StaticBody3D@89378/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89381/SnapZone" to="Grid/@StaticBody3D@89381/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89381/SnapZone" to="Grid/@StaticBody3D@89381/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89384/SnapZone" to="Grid/@StaticBody3D@89384/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89384/SnapZone" to="Grid/@StaticBody3D@89384/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89387/SnapZone" to="Grid/@StaticBody3D@89387/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89387/SnapZone" to="Grid/@StaticBody3D@89387/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89390/SnapZone" to="Grid/@StaticBody3D@89390/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89390/SnapZone" to="Grid/@StaticBody3D@89390/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89393/SnapZone" to="Grid/@StaticBody3D@89393/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89393/SnapZone" to="Grid/@StaticBody3D@89393/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89396/SnapZone" to="Grid/@StaticBody3D@89396/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89396/SnapZone" to="Grid/@StaticBody3D@89396/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89399/SnapZone" to="Grid/@StaticBody3D@89399/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89399/SnapZone" to="Grid/@StaticBody3D@89399/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89402/SnapZone" to="Grid/@StaticBody3D@89402/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89402/SnapZone" to="Grid/@StaticBody3D@89402/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89405/SnapZone" to="Grid/@StaticBody3D@89405/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89405/SnapZone" to="Grid/@StaticBody3D@89405/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89408/SnapZone" to="Grid/@StaticBody3D@89408/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89408/SnapZone" to="Grid/@StaticBody3D@89408/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89411/SnapZone" to="Grid/@StaticBody3D@89411/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89411/SnapZone" to="Grid/@StaticBody3D@89411/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89414/SnapZone" to="Grid/@StaticBody3D@89414/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89414/SnapZone" to="Grid/@StaticBody3D@89414/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89417/SnapZone" to="Grid/@StaticBody3D@89417/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89417/SnapZone" to="Grid/@StaticBody3D@89417/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89420/SnapZone" to="Grid/@StaticBody3D@89420/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89420/SnapZone" to="Grid/@StaticBody3D@89420/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89423/SnapZone" to="Grid/@StaticBody3D@89423/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89423/SnapZone" to="Grid/@StaticBody3D@89423/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89426/SnapZone" to="Grid/@StaticBody3D@89426/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89426/SnapZone" to="Grid/@StaticBody3D@89426/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89429/SnapZone" to="Grid/@StaticBody3D@89429/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89429/SnapZone" to="Grid/@StaticBody3D@89429/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89432/SnapZone" to="Grid/@StaticBody3D@89432/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89432/SnapZone" to="Grid/@StaticBody3D@89432/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89435/SnapZone" to="Grid/@StaticBody3D@89435/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89435/SnapZone" to="Grid/@StaticBody3D@89435/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89438/SnapZone" to="Grid/@StaticBody3D@89438/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89438/SnapZone" to="Grid/@StaticBody3D@89438/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89441/SnapZone" to="Grid/@StaticBody3D@89441/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89441/SnapZone" to="Grid/@StaticBody3D@89441/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89444/SnapZone" to="Grid/@StaticBody3D@89444/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89444/SnapZone" to="Grid/@StaticBody3D@89444/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89447/SnapZone" to="Grid/@StaticBody3D@89447/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89447/SnapZone" to="Grid/@StaticBody3D@89447/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89450/SnapZone" to="Grid/@StaticBody3D@89450/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89450/SnapZone" to="Grid/@StaticBody3D@89450/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89453/SnapZone" to="Grid/@StaticBody3D@89453/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89453/SnapZone" to="Grid/@StaticBody3D@89453/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89456/SnapZone" to="Grid/@StaticBody3D@89456/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89456/SnapZone" to="Grid/@StaticBody3D@89456/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89459/SnapZone" to="Grid/@StaticBody3D@89459/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89459/SnapZone" to="Grid/@StaticBody3D@89459/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89462/SnapZone" to="Grid/@StaticBody3D@89462/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89462/SnapZone" to="Grid/@StaticBody3D@89462/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89465/SnapZone" to="Grid/@StaticBody3D@89465/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89465/SnapZone" to="Grid/@StaticBody3D@89465/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89468/SnapZone" to="Grid/@StaticBody3D@89468/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89468/SnapZone" to="Grid/@StaticBody3D@89468/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89471/SnapZone" to="Grid/@StaticBody3D@89471/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89471/SnapZone" to="Grid/@StaticBody3D@89471/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89474/SnapZone" to="Grid/@StaticBody3D@89474/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89474/SnapZone" to="Grid/@StaticBody3D@89474/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89477/SnapZone" to="Grid/@StaticBody3D@89477/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89477/SnapZone" to="Grid/@StaticBody3D@89477/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89480/SnapZone" to="Grid/@StaticBody3D@89480/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89480/SnapZone" to="Grid/@StaticBody3D@89480/SnapZone" method="_on_snap_zone_body_exited"]
+[connection signal="body_entered" from="Grid/@StaticBody3D@89483/SnapZone" to="Grid/@StaticBody3D@89483/SnapZone" method="_on_snap_zone_body_entered"]
+[connection signal="body_exited" from="Grid/@StaticBody3D@89483/SnapZone" to="Grid/@StaticBody3D@89483/SnapZone" method="_on_snap_zone_body_exited"]
