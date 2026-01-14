@@ -28,6 +28,10 @@ project/assembly_name="VRProjekt3"
 
 enabled=PackedStringArray("res://addons/godot-xr-tools/plugin.cfg", "res://addons/verlet_rope_4/plugin.cfg")
 
+[layer_names]
+
+3d_physics/layer_1="cable_channel_layer"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
