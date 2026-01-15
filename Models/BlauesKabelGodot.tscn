@@ -7,13 +7,13 @@
 [ext_resource type="PackedScene" uid="uid://dh8grd7s3n8kg" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_snap.tscn" id="5_1hycq"]
 
 [sub_resource type="CylinderShape3D" id="CylinderShape3D_p4dgb"]
-height = 1.9127808
+height = 0.41038513
 radius = 0.037109375
 
 [node name="BlauesKabel" instance=ExtResource("1_hn2gh")]
 
 [node name="CollisionShape3D" parent="." index="0"]
-transform = Transform3D(0.00027926365, -0.99999994, 0, 0.99999994, 0.00027926365, 0, 0, 0, 1, -0.822235, 0.00022962039, 0)
+transform = Transform3D(0.00027926365, -0.99999994, 0, 0.99999994, 0.00027926365, 0, 0, 0, 1, -0.17087549, 4.7719346e-05, 0)
 shape = SubResource("CylinderShape3D_p4dgb")
 
 [node name="BlauesKabel" parent="." index="1" instance=ExtResource("2_1hycq")]

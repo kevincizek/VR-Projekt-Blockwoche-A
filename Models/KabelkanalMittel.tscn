@@ -1,0 +1,28 @@
+[gd_scene load_steps=7 format=3 uid="uid://celur73b7kswk"]
+
+[ext_resource type="PackedScene" uid="uid://c8l60rnugru40" path="res://addons/godot-xr-tools/objects/pickable.tscn" id="1_m4smq"]
+[ext_resource type="PackedScene" uid="uid://vs0e5vveg7yy" path="res://Models_GLB/Kabelkanal_mittel.glb" id="2_yjupy"]
+[ext_resource type="PackedScene" uid="uid://c25yxb0vt53vc" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_left.tscn" id="3_d8yx3"]
+[ext_resource type="PackedScene" uid="uid://ctw7nbntd5pcj" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_hand_right.tscn" id="4_0q4u7"]
+[ext_resource type="PackedScene" uid="uid://dh8grd7s3n8kg" path="res://addons/godot-xr-tools/objects/grab_points/grab_point_snap.tscn" id="5_0euag"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_t8ofs"]
+size = Vector3(0.22576523, 0.16827774, 1.5699272)
+
+[node name="KabelkanalMittel" instance=ExtResource("1_m4smq")]
+
+[node name="CollisionShape3D" parent="." index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0034618378, 0.049337387, -0.0024662018)
+shape = SubResource("BoxShape3D_t8ofs")
+
+[node name="Kabelkanal_mittel" parent="." index="1" instance=ExtResource("2_yjupy")]
+transform = Transform3D(0.02, 0, 0, 0, 0.02, 0, 0, 0, 0.02, 0, 0, 0)
+
+[node name="GrabPointHandLeft" parent="." index="2" instance=ExtResource("3_d8yx3")]
+transform = Transform3D(0.027293585, 0, -0.9996275, 0, 1, 0, 0.9996275, 0, 0.027293585, -0.036232546, 0.08964822, -0.6995236)
+
+[node name="GrabPointHandRight" parent="." index="3" instance=ExtResource("4_0q4u7")]
+transform = Transform3D(-0.025688447, 0, -0.99966997, 0, 1, 0, 0.99966997, 0, -0.025688447, -0.037866727, 0.13076675, 0.6875516)
+
+[node name="GrabPointSnap" parent="." index="4" instance=ExtResource("5_0euag")]
+transform = Transform3D(-0.003752505, 0, 0.99999297, 0, 1, 0, -0.99999297, 0, -0.003752505, 0, 0, 0)

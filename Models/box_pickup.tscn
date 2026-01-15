@@ -32,4 +32,3 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.04548514, 0.23369928, 0.29
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.26455712, 0.29257935)
 
 [node name="GrabPointSnap" parent="." index="5" instance=ExtResource("5_1l7xx")]
-transform = Transform3D(46.686604, 0, 0, 0, 56.56575, 0, 0, 0, 1, 0, 0, 0.34670758)
